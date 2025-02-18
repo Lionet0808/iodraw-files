@@ -54,7 +54,7 @@
         <mxCell id="MzP9fj1hC1Bi3aEoADzl-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.981;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="MzP9fj1hC1Bi3aEoADzl-3" target="MzP9fj1hC1Bi3aEoADzl-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MzP9fj1hC1Bi3aEoADzl-19" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MzP9fj1hC1Bi3aEoADzl-18">
+        <mxCell id="MzP9fj1hC1Bi3aEoADzl-19" value="回传用户权限分类" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MzP9fj1hC1Bi3aEoADzl-18">
           <mxGeometry x="-0.4617" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>

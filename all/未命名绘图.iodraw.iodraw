@@ -30,6 +30,11 @@
         <mxCell id="MzP9fj1hC1Bi3aEoADzl-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="MzP9fj1hC1Bi3aEoADzl-2" target="MzP9fj1hC1Bi3aEoADzl-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="MzP9fj1hC1Bi3aEoADzl-20" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MzP9fj1hC1Bi3aEoADzl-17">
+          <mxGeometry x="-0.4625" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="MzP9fj1hC1Bi3aEoADzl-2" value="判断账户密码是否正确" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="295" y="470" width="150" height="90" as="geometry" />
         </mxCell>
@@ -48,6 +53,9 @@
         <mxCell id="MzP9fj1hC1Bi3aEoADzl-8" value="返回账号或密码错误" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="80" y="485" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="MzP9fj1hC1Bi3aEoADzl-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="MzP9fj1hC1Bi3aEoADzl-16" target="MzP9fj1hC1Bi3aEoADzl-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="MzP9fj1hC1Bi3aEoADzl-16" value="判断登录用户权限" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="525" y="470" width="150" height="90" as="geometry" />
         </mxCell>
@@ -58,6 +66,9 @@
           <mxGeometry x="-0.4617" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="MzP9fj1hC1Bi3aEoADzl-21" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="540" y="315" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

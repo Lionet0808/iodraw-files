@@ -10,7 +10,7 @@
         <mxCell id="MzP9fj1hC1Bi3aEoADzl-0" value="登陆界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="310" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MzP9fj1hC1Bi3aEoADzl-1" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="MzP9fj1hC1Bi3aEoADzl-1" value="输入用户名密码" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="310" y="340" width="120" height="60" as="geometry" />
         </mxCell>
       </root>

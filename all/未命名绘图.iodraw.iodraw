@@ -19,6 +19,9 @@
         <mxCell id="MzP9fj1hC1Bi3aEoADzl-1" value="输入用户名密码" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="310" y="340" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="MzP9fj1hC1Bi3aEoADzl-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="MzP9fj1hC1Bi3aEoADzl-2" target="MzP9fj1hC1Bi3aEoADzl-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="MzP9fj1hC1Bi3aEoADzl-2" value="判断账户密码是否正确" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="295" y="470" width="150" height="90" as="geometry" />
         </mxCell>
@@ -27,6 +30,12 @@
         </mxCell>
         <mxCell id="MzP9fj1hC1Bi3aEoADzl-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.507;entryY=0.069;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="MzP9fj1hC1Bi3aEoADzl-1" target="MzP9fj1hC1Bi3aEoADzl-2">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MzP9fj1hC1Bi3aEoADzl-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.507;entryY=1.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="MzP9fj1hC1Bi3aEoADzl-3" target="MzP9fj1hC1Bi3aEoADzl-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MzP9fj1hC1Bi3aEoADzl-8" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="80" y="485" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

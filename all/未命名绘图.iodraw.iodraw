@@ -19,6 +19,9 @@
         <mxCell id="cfL7wlQO4cwUekJFPqry-9" value="web服务器" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="510" y="410" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="cfL7wlQO4cwUekJFPqry-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="cfL7wlQO4cwUekJFPqry-11" target="cfL7wlQO4cwUekJFPqry-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cfL7wlQO4cwUekJFPqry-11" value="数据库检索" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="510" y="550" width="120" height="60" as="geometry" />
         </mxCell>

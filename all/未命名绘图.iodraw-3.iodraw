@@ -37,6 +37,9 @@
         <mxCell id="0D-Gl0sf3OimHj0TTWBk-12" value="论文进度管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="750" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="0D-Gl0sf3OimHj0TTWBk-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="0D-Gl0sf3OimHj0TTWBk-3" target="0D-Gl0sf3OimHj0TTWBk-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

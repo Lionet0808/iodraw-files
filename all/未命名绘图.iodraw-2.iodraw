@@ -13,7 +13,7 @@
         <mxCell id="X2i19Ed79T2J2NoUHeQ3-3" value="个人中心" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="300" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="X2i19Ed79T2J2NoUHeQ3-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="X2i19Ed79T2J2NoUHeQ3-4">
+        <mxCell id="X2i19Ed79T2J2NoUHeQ3-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="X2i19Ed79T2J2NoUHeQ3-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="460" y="370" as="targetPoint" />
           </mxGeometry>
@@ -21,7 +21,7 @@
         <mxCell id="X2i19Ed79T2J2NoUHeQ3-4" value="在线选题" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="430" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="X2i19Ed79T2J2NoUHeQ3-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="X2i19Ed79T2J2NoUHeQ3-5">
+        <mxCell id="X2i19Ed79T2J2NoUHeQ3-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="X2i19Ed79T2J2NoUHeQ3-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="460" y="370" as="targetPoint" />
           </mxGeometry>

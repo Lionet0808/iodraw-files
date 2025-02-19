@@ -22,7 +22,7 @@
         <mxCell id="dU8qMP8j_sgPwpsoWFd0-16" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="dU8qMP8j_sgPwpsoWFd0-12">
           <mxGeometry x="15" y="50" width="10" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="dU8qMP8j_sgPwpsoWFd0-13" value="输入" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" source="dU8qMP8j_sgPwpsoWFd0-16">
+        <mxCell id="dU8qMP8j_sgPwpsoWFd0-13" value="输入" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" source="dU8qMP8j_sgPwpsoWFd0-16" target="dU8qMP8j_sgPwpsoWFd0-18">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="100" y="240" as="sourcePoint" />
             <mxPoint x="339.5" y="220" as="targetPoint" />

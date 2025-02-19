@@ -42,7 +42,7 @@
         <mxCell id="NlwlZ4qzy6o1a2L984WD-17" value="1" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" parent="NlwlZ4qzy6o1a2L984WD-16" connectable="0" vertex="1">
           <mxGeometry x="-1" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NlwlZ4qzy6o1a2L984WD-18" value="重新修改" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="NlwlZ4qzy6o1a2L984WD-16" vertex="1" connectable="0">
+        <mxCell id="NlwlZ4qzy6o1a2L984WD-18" value="重新选择" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="NlwlZ4qzy6o1a2L984WD-16" vertex="1" connectable="0">
           <mxGeometry x="-0.075" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -162,10 +162,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NlwlZ4qzy6o1a2L984WD-31" value="发送修改后指令" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" source="NlwlZ4qzy6o1a2L984WD-11" target="NlwlZ4qzy6o1a2L984WD-21" edge="1">
+        <mxCell id="NlwlZ4qzy6o1a2L984WD-31" value="发送修改后指令" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="350" y="550" as="sourcePoint" />
-            <mxPoint x="430" y="550" as="targetPoint" />
+            <mxPoint x="350" y="540" as="sourcePoint" />
+            <mxPoint x="600" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NlwlZ4qzy6o1a2L984WD-32" value="返回无法选择" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;" parent="1" source="NlwlZ4qzy6o1a2L984WD-7" target="NlwlZ4qzy6o1a2L984WD-3" edge="1">

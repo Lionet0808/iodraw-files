@@ -38,6 +38,11 @@
         <mxCell id="NlwlZ4qzy6o1a2L984WD-17" value="1" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="NlwlZ4qzy6o1a2L984WD-16">
           <mxGeometry x="-1" relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="NlwlZ4qzy6o1a2L984WD-18" value="重新修改" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NlwlZ4qzy6o1a2L984WD-16">
+          <mxGeometry x="-0.075" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="dU8qMP8j_sgPwpsoWFd0-7" value="服务器" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="550" y="160" width="100" height="560" as="geometry" />
         </mxCell>

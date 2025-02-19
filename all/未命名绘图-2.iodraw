@@ -136,10 +136,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="NlwlZ4qzy6o1a2L984WD-19" value="name" style="endArrow=block;endFill=1;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;rounded=0;" edge="1" parent="1" source="NlwlZ4qzy6o1a2L984WD-21" target="NlwlZ4qzy6o1a2L984WD-23">
+        <mxCell id="NlwlZ4qzy6o1a2L984WD-19" value="name" style="endArrow=block;endFill=1;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;rounded=0;entryX=0.46;entryY=0.71;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="NlwlZ4qzy6o1a2L984WD-21" target="NlwlZ4qzy6o1a2L984WD-23">
           <mxGeometry x="-1" relative="1" as="geometry">
             <mxPoint x="610" y="530" as="sourcePoint" />
-            <mxPoint x="770" y="530" as="targetPoint" />
+            <mxPoint x="800" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NlwlZ4qzy6o1a2L984WD-20" value="1" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="NlwlZ4qzy6o1a2L984WD-19">

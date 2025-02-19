@@ -22,10 +22,16 @@
             <mxPoint x="339.5" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dU8qMP8j_sgPwpsoWFd0-14" value="发送信息" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" source="dU8qMP8j_sgPwpsoWFd0-6" target="dU8qMP8j_sgPwpsoWFd0-7">
+        <mxCell id="dU8qMP8j_sgPwpsoWFd0-14" value="发送信息" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="350" y="330" as="sourcePoint" />
-            <mxPoint x="430" y="330" as="targetPoint" />
+            <mxPoint x="339.5" y="250" as="sourcePoint" />
+            <mxPoint x="599.5" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dU8qMP8j_sgPwpsoWFd0-15" value="dispatch" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" target="dU8qMP8j_sgPwpsoWFd0-8">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="600" y="270" as="sourcePoint" />
+            <mxPoint x="680" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>

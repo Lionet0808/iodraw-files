@@ -13,6 +13,15 @@
         <mxCell id="1F9EnoJ8pzV_Fydv9XSh-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1F9EnoJ8pzV_Fydv9XSh-2" target="1F9EnoJ8pzV_Fydv9XSh-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="1F9EnoJ8pzV_Fydv9XSh-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1F9EnoJ8pzV_Fydv9XSh-2" target="1F9EnoJ8pzV_Fydv9XSh-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1F9EnoJ8pzV_Fydv9XSh-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1F9EnoJ8pzV_Fydv9XSh-2" target="1F9EnoJ8pzV_Fydv9XSh-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1F9EnoJ8pzV_Fydv9XSh-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1F9EnoJ8pzV_Fydv9XSh-2" target="1F9EnoJ8pzV_Fydv9XSh-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1F9EnoJ8pzV_Fydv9XSh-2" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="130" width="120" height="60" as="geometry" />
         </mxCell>

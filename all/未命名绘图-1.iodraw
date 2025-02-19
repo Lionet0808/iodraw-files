@@ -10,6 +10,15 @@
         <mxCell id="dU8qMP8j_sgPwpsoWFd0-18" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="dU8qMP8j_sgPwpsoWFd0-6">
           <mxGeometry x="45" y="70" width="10" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="dU8qMP8j_sgPwpsoWFd0-19" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="dU8qMP8j_sgPwpsoWFd0-6">
+          <mxGeometry x="50" y="190" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dU8qMP8j_sgPwpsoWFd0-20" value="self call" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="dU8qMP8j_sgPwpsoWFd0-19" parent="dU8qMP8j_sgPwpsoWFd0-6" source="dU8qMP8j_sgPwpsoWFd0-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="55" y="170" as="sourcePoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="dU8qMP8j_sgPwpsoWFd0-7" value=":Object" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="550" y="160" width="100" height="300" as="geometry" />
         </mxCell>
@@ -30,8 +39,8 @@
         </mxCell>
         <mxCell id="dU8qMP8j_sgPwpsoWFd0-14" value="发送信息" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="339.5" y="250" as="sourcePoint" />
-            <mxPoint x="599.5" y="250" as="targetPoint" />
+            <mxPoint x="345" y="260" as="sourcePoint" />
+            <mxPoint x="599.5" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dU8qMP8j_sgPwpsoWFd0-15" value="发送信息" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" target="dU8qMP8j_sgPwpsoWFd0-8">

@@ -47,7 +47,7 @@
             <mxPoint x="604.5" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dU8qMP8j_sgPwpsoWFd0-15" value="发送信息" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="dU8qMP8j_sgPwpsoWFd0-15" value="在数据库中进行搜索比对" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" source="dU8qMP8j_sgPwpsoWFd0-21">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="600" y="460" as="sourcePoint" />
             <mxPoint x="860" y="460" as="targetPoint" />

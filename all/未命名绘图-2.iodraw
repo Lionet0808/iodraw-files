@@ -141,25 +141,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="NlwlZ4qzy6o1a2L984WD-12" value="" style="endArrow=block;endFill=1;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;rounded=0;entryX=-0.02;entryY=0.67;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="NlwlZ4qzy6o1a2L984WD-21">
-          <mxGeometry x="-1" relative="1" as="geometry">
-            <mxPoint x="345" y="540" as="sourcePoint" />
-            <mxPoint x="505" y="540" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="345" y="541" />
-              <mxPoint x="471" y="541" />
-              <mxPoint x="471" y="537" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="NlwlZ4qzy6o1a2L984WD-13" value="1" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="NlwlZ4qzy6o1a2L984WD-12">
-          <mxGeometry x="-1" relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="NlwlZ4qzy6o1a2L984WD-22" value="重新提交" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NlwlZ4qzy6o1a2L984WD-12">
-          <mxGeometry x="-0.266" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="NlwlZ4qzy6o1a2L984WD-19" value="name" style="endArrow=block;endFill=1;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;rounded=0;" edge="1" parent="1" source="NlwlZ4qzy6o1a2L984WD-21" target="NlwlZ4qzy6o1a2L984WD-23">
           <mxGeometry x="-1" relative="1" as="geometry">
             <mxPoint x="610" y="530" as="sourcePoint" />

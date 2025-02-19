@@ -90,6 +90,18 @@
         <mxCell id="NlwlZ4qzy6o1a2L984WD-26" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="dU8qMP8j_sgPwpsoWFd0-8">
           <mxGeometry x="45" y="400" width="10" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="NlwlZ4qzy6o1a2L984WD-36" value="dispatch" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="dU8qMP8j_sgPwpsoWFd0-8" source="dU8qMP8j_sgPwpsoWFd0-8" target="NlwlZ4qzy6o1a2L984WD-26">
+          <mxGeometry x="-1" y="41" width="80" relative="1" as="geometry">
+            <mxPoint x="100" y="360" as="sourcePoint" />
+            <mxPoint x="180" y="360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="120" y="380" />
+              <mxPoint x="130" y="380" />
+              <mxPoint x="100" y="430" />
+            </Array>
+            <mxPoint x="13" y="-21" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="dU8qMP8j_sgPwpsoWFd0-13" value="查询修改学生" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="59.5" y="250" as="sourcePoint" />
@@ -157,13 +169,6 @@
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="630" y="480" as="sourcePoint" />
             <mxPoint x="790" y="480" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="NlwlZ4qzy6o1a2L984WD-36" value="dispatch" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" target="NlwlZ4qzy6o1a2L984WD-26">
-          <mxGeometry x="-1" y="41" width="80" relative="1" as="geometry">
-            <mxPoint x="910" y="520" as="sourcePoint" />
-            <mxPoint x="990" y="520" as="targetPoint" />
-            <mxPoint x="13" y="-21" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>

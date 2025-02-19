@@ -41,7 +41,7 @@
             <mxPoint x="335" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dU8qMP8j_sgPwpsoWFd0-14" value="发送信息" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;" parent="1" source="dU8qMP8j_sgPwpsoWFd0-19" target="dU8qMP8j_sgPwpsoWFd0-21" edge="1">
+        <mxCell id="dU8qMP8j_sgPwpsoWFd0-14" value="发送修改指令" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;" parent="1" source="dU8qMP8j_sgPwpsoWFd0-19" target="dU8qMP8j_sgPwpsoWFd0-21" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="350" y="390" as="sourcePoint" />
             <mxPoint x="604.5" y="390" as="targetPoint" />

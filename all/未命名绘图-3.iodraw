@@ -117,7 +117,7 @@
             <mxPoint x="604.5" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dU8qMP8j_sgPwpsoWFd0-26" value="对数据库进行修改" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" source="dU8qMP8j_sgPwpsoWFd0-21" target="dU8qMP8j_sgPwpsoWFd0-8" edge="1">
+        <mxCell id="dU8qMP8j_sgPwpsoWFd0-26" value="标记不可再被选择" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" source="dU8qMP8j_sgPwpsoWFd0-21" target="dU8qMP8j_sgPwpsoWFd0-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="785" y="445" as="sourcePoint" />
             <Array as="points">

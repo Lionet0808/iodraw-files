@@ -53,13 +53,13 @@
           <mxGeometry x="20" y="230" width="20" height="170" as="geometry" />
         </mxCell>
         <mxCell id="1F9EnoJ8pzV_Fydv9XSh-6" value="个人信息中心" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="230" width="20" height="280" as="geometry" />
+          <mxGeometry x="50" y="230" width="20" height="170" as="geometry" />
         </mxCell>
         <mxCell id="1F9EnoJ8pzV_Fydv9XSh-7" value="学生管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="230" width="20" height="280" as="geometry" />
+          <mxGeometry x="80" y="230" width="20" height="170" as="geometry" />
         </mxCell>
         <mxCell id="1F9EnoJ8pzV_Fydv9XSh-8" value="教师管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="230" width="20" height="280" as="geometry" />
+          <mxGeometry x="110" y="230" width="20" height="170" as="geometry" />
         </mxCell>
         <mxCell id="1F9EnoJ8pzV_Fydv9XSh-9" value="系统管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="230" width="20" height="280" as="geometry" />

@@ -54,7 +54,7 @@
           <mxGeometry x="45" y="220" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dU8qMP8j_sgPwpsoWFd0-28" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="dU8qMP8j_sgPwpsoWFd0-7" vertex="1">
-          <mxGeometry x="45" y="420" width="10" height="60" as="geometry" />
+          <mxGeometry x="45" y="430" width="10" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NlwlZ4qzy6o1a2L984WD-3" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="dU8qMP8j_sgPwpsoWFd0-7" vertex="1">
           <mxGeometry x="45" y="300" width="10" height="40" as="geometry" />
@@ -134,6 +134,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="590" y="510" as="sourcePoint" />
             <mxPoint x="510" y="510" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="640" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="NlwlZ4qzy6o1a2L984WD-1" value="学生" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">

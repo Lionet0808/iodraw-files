@@ -127,20 +127,6 @@
         <mxCell id="NlwlZ4qzy6o1a2L984WD-1" value="管理员" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="10" y="160" width="100" height="620" as="geometry" />
         </mxCell>
-        <mxCell id="NlwlZ4qzy6o1a2L984WD-6" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" source="NlwlZ4qzy6o1a2L984WD-7" target="NlwlZ4qzy6o1a2L984WD-3">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="710" y="470" as="sourcePoint" />
-            <mxPoint x="790" y="470" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="730" y="480" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="NlwlZ4qzy6o1a2L984WD-8" value="返回修改信息不符合要求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NlwlZ4qzy6o1a2L984WD-6">
-          <mxGeometry x="0.0896" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="NlwlZ4qzy6o1a2L984WD-10" value="修改失败" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" source="NlwlZ4qzy6o1a2L984WD-3" target="NlwlZ4qzy6o1a2L984WD-9">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="590" y="480" as="sourcePoint" />
@@ -168,6 +154,12 @@
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="350" y="550" as="sourcePoint" />
             <mxPoint x="430" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NlwlZ4qzy6o1a2L984WD-32" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;" edge="1" parent="1" source="NlwlZ4qzy6o1a2L984WD-7">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="630" y="480" as="sourcePoint" />
+            <mxPoint x="790" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>

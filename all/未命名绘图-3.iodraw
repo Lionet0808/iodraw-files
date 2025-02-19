@@ -13,7 +13,7 @@
         <mxCell id="dU8qMP8j_sgPwpsoWFd0-19" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="dU8qMP8j_sgPwpsoWFd0-6" vertex="1">
           <mxGeometry x="45" y="190" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dU8qMP8j_sgPwpsoWFd0-20" value="选择题目" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;" parent="dU8qMP8j_sgPwpsoWFd0-6" source="dU8qMP8j_sgPwpsoWFd0-18" target="dU8qMP8j_sgPwpsoWFd0-19" edge="1">
+        <mxCell id="dU8qMP8j_sgPwpsoWFd0-20" value="选择毕设题目" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;" parent="dU8qMP8j_sgPwpsoWFd0-6" source="dU8qMP8j_sgPwpsoWFd0-18" target="dU8qMP8j_sgPwpsoWFd0-19" edge="1">
           <mxGeometry x="0.066" y="25" relative="1" as="geometry">
             <mxPoint x="55" y="170" as="sourcePoint" />
             <Array as="points">
@@ -112,9 +112,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dU8qMP8j_sgPwpsoWFd0-14" value="发送修改指令" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;" parent="1" source="dU8qMP8j_sgPwpsoWFd0-19" target="dU8qMP8j_sgPwpsoWFd0-21" edge="1">
-          <mxGeometry width="80" relative="1" as="geometry">
+          <mxGeometry x="0.24" y="15" width="80" relative="1" as="geometry">
             <mxPoint x="350" y="390" as="sourcePoint" />
             <mxPoint x="604.5" y="390" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="53m_qlgqQBezKbKfFo_t-1" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dU8qMP8j_sgPwpsoWFd0-14">
+          <mxGeometry x="0.2574" y="12" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dU8qMP8j_sgPwpsoWFd0-26" value="对数据库进行修改" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" source="dU8qMP8j_sgPwpsoWFd0-21" target="dU8qMP8j_sgPwpsoWFd0-8" edge="1">

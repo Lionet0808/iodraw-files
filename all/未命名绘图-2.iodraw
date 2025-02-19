@@ -92,7 +92,7 @@
             <mxPoint x="540" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dU8qMP8j_sgPwpsoWFd0-29" value="返回结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" source="dU8qMP8j_sgPwpsoWFd0-28" target="dU8qMP8j_sgPwpsoWFd0-6" edge="1">
+        <mxCell id="dU8qMP8j_sgPwpsoWFd0-29" value="展示结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" source="dU8qMP8j_sgPwpsoWFd0-28" target="dU8qMP8j_sgPwpsoWFd0-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="590" y="510" as="sourcePoint" />
             <mxPoint x="510" y="510" as="targetPoint" />

@@ -157,7 +157,7 @@
         <mxCell id="NlwlZ4qzy6o1a2L984WD-20" value="1" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" parent="NlwlZ4qzy6o1a2L984WD-19" connectable="0" vertex="1">
           <mxGeometry x="-1" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NlwlZ4qzy6o1a2L984WD-24" value="对数据库进行修改" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="NlwlZ4qzy6o1a2L984WD-19" vertex="1" connectable="0">
+        <mxCell id="NlwlZ4qzy6o1a2L984WD-24" value="查询可被选择" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="NlwlZ4qzy6o1a2L984WD-19" vertex="1" connectable="0">
           <mxGeometry x="-0.048" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -176,6 +176,12 @@
         </mxCell>
         <mxCell id="53m_qlgqQBezKbKfFo_t-5" value="已被占用不可选择" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="880" y="408" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="53m_qlgqQBezKbKfFo_t-6" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="110" y="700" as="sourcePoint" />
+            <mxPoint x="270" y="700" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

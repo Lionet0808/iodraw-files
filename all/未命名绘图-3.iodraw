@@ -111,16 +111,10 @@
             <mxPoint x="335" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dU8qMP8j_sgPwpsoWFd0-14" value="发送修改指令" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;" parent="1" source="dU8qMP8j_sgPwpsoWFd0-19" target="dU8qMP8j_sgPwpsoWFd0-21" edge="1">
-          <mxGeometry x="0.24" y="15" width="80" relative="1" as="geometry">
+        <mxCell id="dU8qMP8j_sgPwpsoWFd0-14" value="占用毕设题目" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;" parent="1" source="dU8qMP8j_sgPwpsoWFd0-19" target="dU8qMP8j_sgPwpsoWFd0-21" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="350" y="390" as="sourcePoint" />
             <mxPoint x="604.5" y="390" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="53m_qlgqQBezKbKfFo_t-1" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dU8qMP8j_sgPwpsoWFd0-14">
-          <mxGeometry x="0.2574" y="12" relative="1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dU8qMP8j_sgPwpsoWFd0-26" value="对数据库进行修改" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" source="dU8qMP8j_sgPwpsoWFd0-21" target="dU8qMP8j_sgPwpsoWFd0-8" edge="1">

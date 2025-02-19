@@ -133,7 +133,7 @@
         <mxCell id="NlwlZ4qzy6o1a2L984WD-13" value="1" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="NlwlZ4qzy6o1a2L984WD-12">
           <mxGeometry x="-1" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NlwlZ4qzy6o1a2L984WD-22" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NlwlZ4qzy6o1a2L984WD-12">
+        <mxCell id="NlwlZ4qzy6o1a2L984WD-22" value="重新提交" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NlwlZ4qzy6o1a2L984WD-12">
           <mxGeometry x="-0.266" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>

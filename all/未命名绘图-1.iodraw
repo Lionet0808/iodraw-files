@@ -47,10 +47,13 @@
             <mxPoint x="604.5" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dU8qMP8j_sgPwpsoWFd0-15" value="发送信息" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" target="dU8qMP8j_sgPwpsoWFd0-8">
+        <mxCell id="dU8qMP8j_sgPwpsoWFd0-15" value="发送信息" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="600" y="270" as="sourcePoint" />
-            <mxPoint x="680" y="270" as="targetPoint" />
+            <mxPoint x="600" y="460" as="sourcePoint" />
+            <mxPoint x="860" y="460" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="720.5" y="460" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>

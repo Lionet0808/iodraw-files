@@ -79,7 +79,7 @@
         <mxCell id="1F9EnoJ8pzV_Fydv9XSh-14" value="论文进度管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="230" width="20" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="kxVa6xpKUOI96mnRyM65-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="kxVa6xpKUOI96mnRyM65-1">
+        <mxCell id="kxVa6xpKUOI96mnRyM65-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kxVa6xpKUOI96mnRyM65-1" target="kxVa6xpKUOI96mnRyM65-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="330" y="470" as="targetPoint" />
           </mxGeometry>
@@ -127,6 +127,9 @@
           <mxGeometry x="470" y="685" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kxVa6xpKUOI96mnRyM65-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="kxVa6xpKUOI96mnRyM65-14" target="kxVa6xpKUOI96mnRyM65-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kxVa6xpKUOI96mnRyM65-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kxVa6xpKUOI96mnRyM65-4" target="kxVa6xpKUOI96mnRyM65-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>

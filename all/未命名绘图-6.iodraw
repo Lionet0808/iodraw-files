@@ -83,7 +83,7 @@
           <mxGeometry x="105" y="560" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kxVa6xpKUOI96mnRyM65-2" value="波波" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
-          <mxGeometry x="225" y="550" width="30" height="60" as="geometry" />
+          <mxGeometry x="360" y="680" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kxVa6xpKUOI96mnRyM65-3" value="小伙伴" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="560" width="30" height="60" as="geometry" />
@@ -96,6 +96,11 @@
         </mxCell>
         <mxCell id="kxVa6xpKUOI96mnRyM65-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.433;entryY=0.78;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kxVa6xpKUOI96mnRyM65-1" target="kxVa6xpKUOI96mnRyM65-2">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kxVa6xpKUOI96mnRyM65-8" value="孤立" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kxVa6xpKUOI96mnRyM65-7">
+          <mxGeometry x="-0.2878" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

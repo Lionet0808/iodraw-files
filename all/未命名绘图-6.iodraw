@@ -113,6 +113,14 @@
         <mxCell id="kxVa6xpKUOI96mnRyM65-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.52;entryY=0.64;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kxVa6xpKUOI96mnRyM65-4" target="kxVa6xpKUOI96mnRyM65-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="kxVa6xpKUOI96mnRyM65-13" value="孤立" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kxVa6xpKUOI96mnRyM65-11">
+          <mxGeometry x="-0.2798" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kxVa6xpKUOI96mnRyM65-14" value="Object" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="470" y="685" width="110" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

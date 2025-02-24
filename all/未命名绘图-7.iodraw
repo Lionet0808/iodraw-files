@@ -82,6 +82,12 @@
         <mxCell id="k2lU8qO2kt-pZO7qwrro-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="490" width="30" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="k2lU8qO2kt-pZO7qwrro-2" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="15" y="650" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k2lU8qO2kt-pZO7qwrro-3" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="810" width="30" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

@@ -82,6 +82,18 @@
         <mxCell id="kxVa6xpKUOI96mnRyM65-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="105" y="560" width="30" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="kxVa6xpKUOI96mnRyM65-2" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="225" y="550" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kxVa6xpKUOI96mnRyM65-3" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="560" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kxVa6xpKUOI96mnRyM65-4" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="560" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kxVa6xpKUOI96mnRyM65-5" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="550" width="30" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

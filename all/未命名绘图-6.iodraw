@@ -79,7 +79,7 @@
         <mxCell id="1F9EnoJ8pzV_Fydv9XSh-14" value="论文进度管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="230" width="20" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="kxVa6xpKUOI96mnRyM65-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+        <mxCell id="kxVa6xpKUOI96mnRyM65-1" value="马林颐" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="105" y="560" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kxVa6xpKUOI96mnRyM65-2" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">

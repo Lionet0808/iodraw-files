@@ -118,6 +118,11 @@
             <mxPoint x="590" y="750" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="k2lU8qO2kt-pZO7qwrro-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="k2lU8qO2kt-pZO7qwrro-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="590" y="1140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="k2lU8qO2kt-pZO7qwrro-4" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="1010" width="30" height="60" as="geometry" />
         </mxCell>
@@ -130,6 +135,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="590" y="750" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="k2lU8qO2kt-pZO7qwrro-25" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="k2lU8qO2kt-pZO7qwrro-5" target="k2lU8qO2kt-pZO7qwrro-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="k2lU8qO2kt-pZO7qwrro-5" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="1150" width="30" height="60" as="geometry" />

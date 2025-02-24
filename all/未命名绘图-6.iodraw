@@ -89,7 +89,7 @@
           <mxGeometry x="380" y="560" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kxVa6xpKUOI96mnRyM65-4" value="三金" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="560" width="30" height="60" as="geometry" />
+          <mxGeometry x="690" y="790" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kxVa6xpKUOI96mnRyM65-5" value="好人" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="770" width="30" height="60" as="geometry" />
@@ -101,6 +101,12 @@
           <mxGeometry x="-0.2878" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="kxVa6xpKUOI96mnRyM65-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kxVa6xpKUOI96mnRyM65-3" target="kxVa6xpKUOI96mnRyM65-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kxVa6xpKUOI96mnRyM65-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.52;entryY=0.64;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kxVa6xpKUOI96mnRyM65-4" target="kxVa6xpKUOI96mnRyM65-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

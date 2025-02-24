@@ -127,6 +127,9 @@
         <mxCell id="kxVa6xpKUOI96mnRyM65-20" value="无关人员" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="10" y="725" width="110" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="kxVa6xpKUOI96mnRyM65-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.467;entryY=0.693;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kxVa6xpKUOI96mnRyM65-20" target="kxVa6xpKUOI96mnRyM65-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

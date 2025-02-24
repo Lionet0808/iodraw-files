@@ -118,7 +118,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kxVa6xpKUOI96mnRyM65-14" value="Object" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="kxVa6xpKUOI96mnRyM65-14" value="自己玩三角州" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="470" y="685" width="110" height="50" as="geometry" />
         </mxCell>
       </root>

@@ -195,6 +195,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="A2D1gvE4IE8dDuCF5dy7-54" value="选题" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="750" y="695" width="130" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

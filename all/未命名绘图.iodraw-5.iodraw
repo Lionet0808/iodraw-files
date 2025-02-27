@@ -64,8 +64,11 @@
         <mxCell id="A2D1gvE4IE8dDuCF5dy7-22" value="审核状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="730" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A2D1gvE4IE8dDuCF5dy7-23" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="240" width="90" height="60" as="geometry" />
+        <mxCell id="A2D1gvE4IE8dDuCF5dy7-23" value="中期检查结果" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="730" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A2D1gvE4IE8dDuCF5dy7-24" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="250" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

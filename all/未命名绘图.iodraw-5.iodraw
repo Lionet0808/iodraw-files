@@ -151,8 +151,8 @@
             <mxPoint x="1190" y="710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="A2D1gvE4IE8dDuCF5dy7-42" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1230" y="350" width="80" height="80" as="geometry" />
+        <mxCell id="A2D1gvE4IE8dDuCF5dy7-42" value="发布" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1195" y="380" width="150" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -87,25 +87,25 @@
           <mxGeometry x="970" y="772.5" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A2D1gvE4IE8dDuCF5dy7-19" value="选题记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="285" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="325" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A2D1gvE4IE8dDuCF5dy7-33" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="A2D1gvE4IE8dDuCF5dy7-20" target="A2D1gvE4IE8dDuCF5dy7-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="A2D1gvE4IE8dDuCF5dy7-20" value="记录ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="130" width="90" height="60" as="geometry" />
+          <mxGeometry x="100" y="130" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A2D1gvE4IE8dDuCF5dy7-21" value="选题时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="90" width="90" height="60" as="geometry" />
+          <mxGeometry x="220" y="90" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A2D1gvE4IE8dDuCF5dy7-22" value="审核状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="80" width="90" height="60" as="geometry" />
+          <mxGeometry x="340" y="80" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A2D1gvE4IE8dDuCF5dy7-23" value="中期检查结果" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="80" width="90" height="60" as="geometry" />
+          <mxGeometry x="450" y="80" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A2D1gvE4IE8dDuCF5dy7-24" value="最终成绩" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="100" width="90" height="60" as="geometry" />
+          <mxGeometry x="560" y="100" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A2D1gvE4IE8dDuCF5dy7-30" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="A2D1gvE4IE8dDuCF5dy7-12" target="A2D1gvE4IE8dDuCF5dy7-2">
           <mxGeometry relative="1" as="geometry">
@@ -127,26 +127,26 @@
         </mxCell>
         <mxCell id="A2D1gvE4IE8dDuCF5dy7-34" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="A2D1gvE4IE8dDuCF5dy7-21" target="A2D1gvE4IE8dDuCF5dy7-19">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="325" y="180" as="sourcePoint" />
-            <mxPoint x="500" y="240" as="targetPoint" />
+            <mxPoint x="365" y="180" as="sourcePoint" />
+            <mxPoint x="540" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="A2D1gvE4IE8dDuCF5dy7-35" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="A2D1gvE4IE8dDuCF5dy7-22" target="A2D1gvE4IE8dDuCF5dy7-19">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="335" y="190" as="sourcePoint" />
-            <mxPoint x="355" y="270" as="targetPoint" />
+            <mxPoint x="375" y="190" as="sourcePoint" />
+            <mxPoint x="395" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="A2D1gvE4IE8dDuCF5dy7-36" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="A2D1gvE4IE8dDuCF5dy7-23" target="A2D1gvE4IE8dDuCF5dy7-19">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="345" y="200" as="sourcePoint" />
-            <mxPoint x="365" y="280" as="targetPoint" />
+            <mxPoint x="385" y="200" as="sourcePoint" />
+            <mxPoint x="405" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="A2D1gvE4IE8dDuCF5dy7-37" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="A2D1gvE4IE8dDuCF5dy7-24" target="A2D1gvE4IE8dDuCF5dy7-19">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="355" y="210" as="sourcePoint" />
-            <mxPoint x="375" y="290" as="targetPoint" />
+            <mxPoint x="395" y="210" as="sourcePoint" />
+            <mxPoint x="415" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="A2D1gvE4IE8dDuCF5dy7-39" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="A2D1gvE4IE8dDuCF5dy7-15" target="A2D1gvE4IE8dDuCF5dy7-4">
@@ -200,7 +200,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="A2D1gvE4IE8dDuCF5dy7-54" value="选题" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="520" width="130" height="70" as="geometry" />
+          <mxGeometry x="-80" y="520" width="130" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

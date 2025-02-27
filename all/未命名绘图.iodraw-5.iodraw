@@ -61,6 +61,9 @@
         <mxCell id="A2D1gvE4IE8dDuCF5dy7-17" value="描述" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1290" y="560" width="90" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="A2D1gvE4IE8dDuCF5dy7-38" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="A2D1gvE4IE8dDuCF5dy7-18" target="A2D1gvE4IE8dDuCF5dy7-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="A2D1gvE4IE8dDuCF5dy7-18" value="状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="970" y="560" width="90" height="60" as="geometry" />
         </mxCell>

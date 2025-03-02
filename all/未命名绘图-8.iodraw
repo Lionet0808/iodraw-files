@@ -27,7 +27,7 @@
         <mxCell id="Mty40AXjKwmdWe6uV2g5-9" value="验证通过" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="296.25" y="300" width="137.5" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Mty40AXjKwmdWe6uV2g5-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Mty40AXjKwmdWe6uV2g5-12" value="修改院系" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="550" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Mty40AXjKwmdWe6uV2g5-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -37,7 +37,7 @@
           <mxGeometry x="460" y="550" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Mty40AXjKwmdWe6uV2g5-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="560" width="120" height="60" as="geometry" />
+          <mxGeometry x="650" y="550" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

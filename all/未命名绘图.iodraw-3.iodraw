@@ -10,7 +10,7 @@
         <mxCell id="0D-Gl0sf3OimHj0TTWBk-4" value="课题申报" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="240" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="0D-Gl0sf3OimHj0TTWBk-5" value="教师管理中心" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="0D-Gl0sf3OimHj0TTWBk-5" value="确认选题" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="130" y="420" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="0D-Gl0sf3OimHj0TTWBk-6" value="系统管理" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -32,7 +32,7 @@
             <mxPoint x="380" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0D-Gl0sf3OimHj0TTWBk-9" value="文件模板管理" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="0D-Gl0sf3OimHj0TTWBk-9" value="教师评审" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="570" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="0D-Gl0sf3OimHj0TTWBk-10" value="中期报告管理" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">

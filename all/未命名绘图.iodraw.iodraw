@@ -74,7 +74,7 @@
         <mxCell id="MzP9fj1hC1Bi3aEoADzl-21" value="功能界面" style="whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="540" y="315" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AS3VXWlJrw7at_tjuTtf-0" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="AS3VXWlJrw7at_tjuTtf-0" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#f01414;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="355" y="120" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AS3VXWlJrw7at_tjuTtf-1" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#151313;rounded=0;" edge="1" source="AS3VXWlJrw7at_tjuTtf-0" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -82,7 +82,7 @@
             <mxPoint x="370" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AS3VXWlJrw7at_tjuTtf-2" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="AS3VXWlJrw7at_tjuTtf-2" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#171616;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="585" y="240" width="30" height="30" as="geometry" />
         </mxCell>
       </root>

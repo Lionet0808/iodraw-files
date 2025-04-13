@@ -65,7 +65,7 @@
         <mxCell id="BfIAKFwLbSdaXhxa2gkf-13" value="" style="shape=line;html=1;strokeWidth=6;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="265" y="390" width="200" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="BfIAKFwLbSdaXhxa2gkf-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="BfIAKFwLbSdaXhxa2gkf-31">
+        <mxCell id="BfIAKFwLbSdaXhxa2gkf-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.525;exitY=0.4;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="BfIAKFwLbSdaXhxa2gkf-15" target="BfIAKFwLbSdaXhxa2gkf-31">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="370" y="634" as="sourcePoint" />
           </mxGeometry>
@@ -130,6 +130,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="365" y="780" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="BfIAKFwLbSdaXhxa2gkf-34" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="350" y="780" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

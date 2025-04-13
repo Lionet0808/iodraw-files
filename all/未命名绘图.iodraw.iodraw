@@ -30,11 +30,6 @@
         <mxCell id="w7n8b_2oDU2xkSBx8_MS-0" value="输入账号密码" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="350" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="w7n8b_2oDU2xkSBx8_MS-1" value="no" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="w7n8b_2oDU2xkSBx8_MS-0" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-1" relative="1" as="geometry">
-            <mxPoint x="610" y="375" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="w7n8b_2oDU2xkSBx8_MS-2" value="yes" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="w7n8b_2oDU2xkSBx8_MS-0" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-1" relative="1" as="geometry">
             <mxPoint x="370" y="450" as="targetPoint" />

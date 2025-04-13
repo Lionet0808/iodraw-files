@@ -53,6 +53,14 @@
             <mxPoint x="440" y="700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="A3NBnKyKH2bTBo95CfTt-15" value="Activity" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="210" y="700" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="A3NBnKyKH2bTBo95CfTt-16" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="A3NBnKyKH2bTBo95CfTt-15" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

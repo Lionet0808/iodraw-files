@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="A3NBnKyKH2bTBo95CfTt-1" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="342.5" y="260" width="30" height="30" as="geometry" />
+          <mxGeometry x="342.5" y="240" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="A3NBnKyKH2bTBo95CfTt-2" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#000000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="A3NBnKyKH2bTBo95CfTt-1" parent="1" target="A3NBnKyKH2bTBo95CfTt-3">
           <mxGeometry relative="1" as="geometry">
@@ -13,12 +13,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="A3NBnKyKH2bTBo95CfTt-3" value="教师登录" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="294" y="310" width="126" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="A3NBnKyKH2bTBo95CfTt-4" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#000000;rounded=0;" edge="1" source="A3NBnKyKH2bTBo95CfTt-3" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="355" y="385" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="294" y="290" width="126" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A3NBnKyKH2bTBo95CfTt-5" value="课题申报" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="295" y="380" width="125" height="50" as="geometry" />

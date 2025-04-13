@@ -12,6 +12,9 @@
             <mxPoint x="345" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="cb1M9tcgg1qNYQrauik1-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cb1M9tcgg1qNYQrauik1-3" target="cb1M9tcgg1qNYQrauik1-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cb1M9tcgg1qNYQrauik1-3" value="使用学生账号登录" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="285" y="130" width="120" height="40" as="geometry" />
         </mxCell>

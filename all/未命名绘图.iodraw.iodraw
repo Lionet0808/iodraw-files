@@ -27,17 +27,20 @@
         <mxCell id="AS3VXWlJrw7at_tjuTtf-3" value="登陆界面" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="310" y="210" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="w7n8b_2oDU2xkSBx8_MS-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w7n8b_2oDU2xkSBx8_MS-5">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="370" y="380" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="w7n8b_2oDU2xkSBx8_MS-5" value="输入账号密码" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="310" y="280" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="w7n8b_2oDU2xkSBx8_MS-6" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="w7n8b_2oDU2xkSBx8_MS-5" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="370" y="350" as="targetPoint" />
+        <mxCell id="w7n8b_2oDU2xkSBx8_MS-17" value="Condition" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="324" y="350" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w7n8b_2oDU2xkSBx8_MS-18" value="no" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="w7n8b_2oDU2xkSBx8_MS-17" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="504" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w7n8b_2oDU2xkSBx8_MS-19" value="yes" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="w7n8b_2oDU2xkSBx8_MS-17" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="364" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>

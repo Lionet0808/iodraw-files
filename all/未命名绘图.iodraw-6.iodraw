@@ -23,6 +23,9 @@
         <mxCell id="cb1M9tcgg1qNYQrauik1-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cb1M9tcgg1qNYQrauik1-5" target="cb1M9tcgg1qNYQrauik1-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="cb1M9tcgg1qNYQrauik1-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cb1M9tcgg1qNYQrauik1-5" target="cb1M9tcgg1qNYQrauik1-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cb1M9tcgg1qNYQrauik1-5" value="选择课题" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="285" y="230" width="120" height="40" as="geometry" />
         </mxCell>

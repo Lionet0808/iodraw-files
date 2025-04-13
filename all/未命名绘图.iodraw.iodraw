@@ -46,6 +46,11 @@
             <mxPoint x="370" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="w7n8b_2oDU2xkSBx8_MS-38" value="yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="w7n8b_2oDU2xkSBx8_MS-35">
+          <mxGeometry x="-0.4286" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="w7n8b_2oDU2xkSBx8_MS-17" value="验证密码" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="330" y="350" width="80" height="40" as="geometry" />
         </mxCell>

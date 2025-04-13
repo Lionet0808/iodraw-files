@@ -34,7 +34,7 @@
         <mxCell id="A3NBnKyKH2bTBo95CfTt-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.505;exitY=0.7;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="A3NBnKyKH2bTBo95CfTt-7" target="A3NBnKyKH2bTBo95CfTt-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="A3NBnKyKH2bTBo95CfTt-7" value="" style="shape=line;html=1;strokeWidth=6;strokeColor=#ff0000;" vertex="1" parent="1">
+        <mxCell id="A3NBnKyKH2bTBo95CfTt-7" value="" style="shape=line;html=1;strokeWidth=6;strokeColor=#100f0f;" vertex="1" parent="1">
           <mxGeometry x="255" y="450" width="200" height="10" as="geometry" />
         </mxCell>
         <mxCell id="A3NBnKyKH2bTBo95CfTt-9" value="新增课题" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
@@ -64,7 +64,7 @@
         <mxCell id="A3NBnKyKH2bTBo95CfTt-17" value="修改信息" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="380" y="630" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="A3NBnKyKH2bTBo95CfTt-18" value="" style="html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.487;entryY=0.51;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" source="A3NBnKyKH2bTBo95CfTt-17" parent="1" target="A3NBnKyKH2bTBo95CfTt-19">
+        <mxCell id="A3NBnKyKH2bTBo95CfTt-18" value="" style="html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#000000;rounded=0;entryX=0.487;entryY=0.51;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" source="A3NBnKyKH2bTBo95CfTt-17" parent="1" target="A3NBnKyKH2bTBo95CfTt-19">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="440" y="730" as="targetPoint" />
           </mxGeometry>

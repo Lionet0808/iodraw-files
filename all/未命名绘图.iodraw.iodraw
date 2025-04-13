@@ -27,25 +27,10 @@
         <mxCell id="AS3VXWlJrw7at_tjuTtf-3" value="登陆界面" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="310" y="210" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="w7n8b_2oDU2xkSBx8_MS-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w7n8b_2oDU2xkSBx8_MS-0" target="w7n8b_2oDU2xkSBx8_MS-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="w7n8b_2oDU2xkSBx8_MS-9" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="w7n8b_2oDU2xkSBx8_MS-8">
-          <mxGeometry x="0.152" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="w7n8b_2oDU2xkSBx8_MS-14" value="no" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="w7n8b_2oDU2xkSBx8_MS-8">
-          <mxGeometry x="0.088" y="-4" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="w7n8b_2oDU2xkSBx8_MS-0" value="验证账号密码是否正确" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="315" y="350" width="110" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="w7n8b_2oDU2xkSBx8_MS-2" value="yes" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="w7n8b_2oDU2xkSBx8_MS-0" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="w7n8b_2oDU2xkSBx8_MS-2" value="yes" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-1" relative="1" as="geometry">
             <mxPoint x="370" y="450" as="targetPoint" />
+            <mxPoint x="370" y="410" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="w7n8b_2oDU2xkSBx8_MS-5" value="输入账号密码" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">

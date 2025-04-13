@@ -118,7 +118,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BfIAKFwLbSdaXhxa2gkf-30" value="yes" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="BfIAKFwLbSdaXhxa2gkf-28" parent="1">
+        <mxCell id="BfIAKFwLbSdaXhxa2gkf-30" value="yes" style="html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.525;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" source="BfIAKFwLbSdaXhxa2gkf-28" parent="1" target="BfIAKFwLbSdaXhxa2gkf-15">
           <mxGeometry x="-1" relative="1" as="geometry">
             <mxPoint x="550" y="690" as="targetPoint" />
           </mxGeometry>

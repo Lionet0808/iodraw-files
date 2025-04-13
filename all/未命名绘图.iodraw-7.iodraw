@@ -56,7 +56,7 @@
         <mxCell id="A3NBnKyKH2bTBo95CfTt-15" value="填写课题详细信息" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="210" y="700" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="A3NBnKyKH2bTBo95CfTt-16" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="A3NBnKyKH2bTBo95CfTt-15" parent="1">
+        <mxCell id="A3NBnKyKH2bTBo95CfTt-16" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.505;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" source="A3NBnKyKH2bTBo95CfTt-15" parent="1" target="A3NBnKyKH2bTBo95CfTt-19">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="270" y="800" as="targetPoint" />
           </mxGeometry>
@@ -64,7 +64,7 @@
         <mxCell id="A3NBnKyKH2bTBo95CfTt-17" value="修改信息" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="380" y="700" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="A3NBnKyKH2bTBo95CfTt-18" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="A3NBnKyKH2bTBo95CfTt-17" parent="1">
+        <mxCell id="A3NBnKyKH2bTBo95CfTt-18" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.51;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" source="A3NBnKyKH2bTBo95CfTt-17" parent="1" target="A3NBnKyKH2bTBo95CfTt-19">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="440" y="800" as="targetPoint" />
           </mxGeometry>
@@ -84,6 +84,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="355" y="990" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="A3NBnKyKH2bTBo95CfTt-23" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="340" y="990" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
